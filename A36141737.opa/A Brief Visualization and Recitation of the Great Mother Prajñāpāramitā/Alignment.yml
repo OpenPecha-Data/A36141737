@@ -1,0 +1,19 @@
+segment_sources:
+  P7E18D930:
+    type: origin_type
+    relation: translation
+    language: en
+  P26483C80:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ba0ec7e0c1894f7f951a639402c2357a:
+    P7E18D930: f1ab84560bf14bad851dd8a94af77bbf
+    P26483C80: 9a8963dc82ad4a4c8ffc52888f1df038
+  10dc2d3b7fd547068b670f59a03fc1be:
+    P7E18D930: adda1dee207a406d9bde4e78464a5a6a
+    P26483C80: dbe73f18eed04deca358d60639b2d9c4
+  f2585dbd9a264d09842ab35af6a3dcb7:
+    P7E18D930: 87055e2af0f14645ab7804c88d9c7ff5
+    P26483C80: 8fbb8750c63845f8a9125c8e9ee3adda

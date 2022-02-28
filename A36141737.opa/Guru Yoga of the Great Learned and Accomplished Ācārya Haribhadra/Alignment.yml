@@ -1,0 +1,16 @@
+segment_sources:
+  P7E18D930:
+    type: origin_type
+    relation: translation
+    language: en
+  P26483C80:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d989e3e309da40ea8915579e88b454e6:
+    P7E18D930: cb3fe44ebbdb475e80eb8758cdbd4f0a
+    P26483C80: 84a57c6eaac64036ad0e0b1147a7881e
+  e664a450762c4f6c8a1a6e63676af818:
+    P7E18D930: 32fe41ecc9324b48b8dcd1ebbf5130f3
+    P26483C80: 41131f00612540cc90080f4b7e9b8ca2
